@@ -8,5 +8,9 @@ namespace Parcial3_P1.Clases
 {
     class Sound
     {
+        public static void sonido()
+        {
+            Console.Beep(1500, 500);
+        }
     }
 }

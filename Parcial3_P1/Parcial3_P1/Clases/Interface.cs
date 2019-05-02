@@ -8,5 +8,6 @@ namespace Parcial3_P1.Clases
 {
     interface Interface
     {
+        string talk();
     }
 }

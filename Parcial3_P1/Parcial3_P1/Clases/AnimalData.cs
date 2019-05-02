@@ -8,5 +8,11 @@ namespace Parcial3_P1.Clases
 {
     class AnimalData
     {
+        string name;
+
+        public AnimalData(string name)
+        {
+            this.name = name;
+        }
     }
 }
